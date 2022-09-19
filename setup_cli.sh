@@ -39,3 +39,8 @@ echo ":set termguicolors" >> my_config.vim
 echo ":colorscheme iceberg" >> my_config.vim
 echo ":syntax on" >> my_config.vim
 echo ":hi LineNr ctermbg=236 ctermfg=3 guibg=#1e2132 guifg=#444b71" >> my_config.vim
+#@ThePrimeagean approved ✅
+echo ":set rnu" >> my_config.vim
+echo ":set autoindent" >> my_config.vim
+echo ":set nowrap" >> my_config.vim
+echo ":set incsearch" >> my_config.vim
